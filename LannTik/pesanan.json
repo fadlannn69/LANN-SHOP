@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "67b205b0d7ac0b099bb5f106",
+        "Nama": "RaspberryPI",
+        "Harga": 1500000
+    },
+    {
+        "_id": "67b205bbd7ac0b099bb5f107",
+        "Nama": "POWER SUPPLY",
+        "Harga": 30000
+    },
+    {
+        "_id": "67b205c5d7ac0b099bb5f108",
+        "Nama": "R307",
+        "Harga": 70000
+    }
+]

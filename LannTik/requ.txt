@@ -1,0 +1,6 @@
+fastapi
+pydantic
+pymongo
+bson
+motor
+fastapi_mail

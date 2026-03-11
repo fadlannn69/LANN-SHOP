@@ -1,0 +1,240 @@
+[
+    {
+        "_id": "67af9979503446834cbeda6e",
+        "Nama": "Arduino",
+        "Jenis": "MicroController",
+        "Harga": 50000,
+        "Gambar": "Arduino.jpg"
+    },
+    {
+        "_id": "67af99a3503446834cbeda6f",
+        "Nama": "RaspberryPI",
+        "Jenis": "MicroController",
+        "Harga": 1500000,
+        "Gambar": "RaspberryPI.jpg"
+    },
+    {
+        "_id": "67af99ef503446834cbeda70",
+        "Nama": "ESP32",
+        "Jenis": "MicroController",
+        "Harga": 30000,
+        "Gambar": "ESP.jpg"
+    },
+    {
+        "_id": "67af9a1c503446834cbeda71",
+        "Nama": "Breadbord",
+        "Jenis": "Electrical",
+        "Harga": 10000,
+        "Gambar": "Bread.jpg"
+    },
+    {
+        "_id": "67af9a42503446834cbeda72",
+        "Nama": "Jumper",
+        "Jenis": "Electrical",
+        "Harga": 10000,
+        "Gambar": "Jumper.jpg"
+    },
+    {
+        "_id": "67af9a56503446834cbeda73",
+        "Nama": "Solder",
+        "Jenis": "Electrical",
+        "Harga": 50000,
+        "Gambar": "Solder.jpg"
+    },
+    {
+        "_id": "67af9a8a503446834cbeda74",
+        "Nama": "OV7670",
+        "Jenis": "Sensor",
+        "Harga": 50000,
+        "Gambar": "Camera.jpg"
+    },
+    {
+        "_id": "67af9ab0503446834cbeda75",
+        "Nama": "IR Obstacle",
+        "Jenis": "Sensor",
+        "Harga": 30000,
+        "Gambar": "Infrared.jpg"
+    },
+    {
+        "_id": "67af9acf503446834cbeda76",
+        "Nama": "MQ135",
+        "Jenis": "Sensor",
+        "Harga": 15000,
+        "Gambar": "Gas.jpg"
+    },
+    {
+        "_id": "67affa888a03068053894c6a",
+        "Nama": "HC-SR04",
+        "Jenis": "Sensor",
+        "Harga": 20000,
+        "Gambar": "HC.jpg"
+    },
+    {
+        "_id": "67affac08a03068053894c6b",
+        "Nama": "LM35",
+        "Jenis": "Sensor",
+        "Harga": 21000,
+        "Gambar": "LM.jpg"
+    },
+    {
+        "_id": "67affada8a03068053894c6c",
+        "Nama": "PIR",
+        "Jenis": "Sensor",
+        "Harga": 25000,
+        "Gambar": "PIR.jpg"
+    },
+    {
+        "_id": "67affafa8a03068053894c6d",
+        "Nama": "DHT!!",
+        "Jenis": "Sensor",
+        "Harga": 20000,
+        "Gambar": "DH.jpg"
+    },
+    {
+        "_id": "67affb1a8a03068053894c6e",
+        "Nama": "BMP180",
+        "Jenis": "Sensor",
+        "Harga": 10000,
+        "Gambar": "BMP.jpg"
+    },
+    {
+        "_id": "67affb368a03068053894c6f",
+        "Nama": "SW-420",
+        "Jenis": "Sensor",
+        "Harga": 15000,
+        "Gambar": "SW.jpg"
+    },
+    {
+        "_id": "67affb588a03068053894c70",
+        "Nama": "R307",
+        "Jenis": "Sensor",
+        "Harga": 70000,
+        "Gambar": "R3.jpg"
+    },
+    {
+        "_id": "67affda4029adb3c425fa78e",
+        "Nama": "BEAGLE BONE BLACK",
+        "Jenis": "MicroController",
+        "Harga": 100000,
+        "Gambar": "Beagle.jpg"
+    },
+    {
+        "_id": "67affdca029adb3c425fa78f",
+        "Nama": "NORDIC nRF52840",
+        "Jenis": "MicroController",
+        "Harga": 150000,
+        "Gambar": "Nordic.jpg"
+    },
+    {
+        "_id": "67affde4029adb3c425fa790",
+        "Nama": "TI CC3200",
+        "Jenis": "MicroController",
+        "Harga": 110000,
+        "Gambar": "TI.jpg"
+    },
+    {
+        "_id": "67affe04029adb3c425fa791",
+        "Nama": "STM32F103",
+        "Jenis": "MicroController",
+        "Harga": 100000,
+        "Gambar": "STM.jpg"
+    },
+    {
+        "_id": "67affe35029adb3c425fa792",
+        "Nama": "PARTICLE PHOTON",
+        "Jenis": "MicroController",
+        "Harga": 150000,
+        "Gambar": "Photon.jpg"
+    },
+    {
+        "_id": "67affe58029adb3c425fa793",
+        "Nama": "WEMOS D1 MINI",
+        "Jenis": "MicroController",
+        "Harga": 70000,
+        "Gambar": "Wemos.jpg"
+    },
+    {
+        "_id": "67affe77029adb3c425fa794",
+        "Nama": "SEEED XIAO",
+        "Jenis": "MicroController",
+        "Harga": 80000,
+        "Gambar": "Seed.jpg"
+    },
+    {
+        "_id": "67affe9c029adb3c425fa795",
+        "Nama": "ADAFRUIT FEATHER",
+        "Jenis": "MicroController",
+        "Harga": 60000,
+        "Gambar": "Fruit.jpg"
+    },
+    {
+        "_id": "67b001103c544d75251b34b9",
+        "Nama": "CAPASITOR",
+        "Jenis": "Electrical",
+        "Harga": 5000,
+        "Gambar": "Kapasitor.jpg"
+    },
+    {
+        "_id": "67b001223c544d75251b34ba",
+        "Nama": "TRANSISTOR",
+        "Jenis": "Electrical",
+        "Harga": 5000,
+        "Gambar": "Transistor.jpg"
+    },
+    {
+        "_id": "67b001423c544d75251b34bb",
+        "Nama": "BUTTON SWITCH",
+        "Jenis": "Electrical",
+        "Harga": 10000,
+        "Gambar": "Button.jpg"
+    },
+    {
+        "_id": "67b0015f3c544d75251b34bc",
+        "Nama": "IC REGULATOR",
+        "Jenis": "Electrical",
+        "Harga": 7000,
+        "Gambar": "Regulator.jpg"
+    },
+    {
+        "_id": "67b001743c544d75251b34bd",
+        "Nama": "NFC MODULE",
+        "Jenis": "Electrical",
+        "Harga": 17000,
+        "Gambar": "NFC.jpg"
+    },
+    {
+        "_id": "67b0018f3c544d75251b34be",
+        "Nama": "WIFI MODUL",
+        "Jenis": "Electrical",
+        "Harga": 28000,
+        "Gambar": "Wifi.jpg"
+    },
+    {
+        "_id": "67b001ad3c544d75251b34bf",
+        "Nama": "BLUETOOTH MODUL",
+        "Jenis": "Electrical",
+        "Harga": 28000,
+        "Gambar": "Bluetooth.jpg"
+    },
+    {
+        "_id": "67b001c83c544d75251b34c0",
+        "Nama": "Lora Module",
+        "Jenis": "Electrical",
+        "Harga": 18000,
+        "Gambar": "Lora.jpg"
+    },
+    {
+        "_id": "67b001e63c544d75251b34c1",
+        "Nama": "MICRO SD MODUL",
+        "Jenis": "Electrical",
+        "Harga": 30000,
+        "Gambar": "Micro.jpg"
+    },
+    {
+        "_id": "67b002053c544d75251b34c2",
+        "Nama": "POWER SUPPLY",
+        "Jenis": "Electrical",
+        "Harga": 30000,
+        "Gambar": "Power.jpg"
+    }
+]
