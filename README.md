@@ -1,5 +1,8 @@
-# LANNTIK IOT SHOP
+<h1 align="center"> LANNTIK IOT SHOP </h1>
+<p align="center">
 <img src="LANNTIKSHOP.jpeg" alt="Contoh Gambar" style="border-radius: 10px;" width="500" height="400"/>
+</p>
+
 ### INI ADALAH SEBUAH PROJECT WEBSITE E-COMMERCE DINAMIS 
 ### PENGGUNA DAPAT MENGIRIM GMAIL PADA PENJUAL
 ### MENGGUNAKAN SERVER UVICORN DENGAN FASTAPI MENJADIKANNYA SANGAT CEPAT
@@ -26,3 +29,8 @@
 ~ INSTALL PYTHON {3.8 | >3.8}<br>
 ~ UPGRADE PIP {PIP >22}<br>
 ~ INSTALL [REQUIREMENTS.TXT](REQUIREMENTS.TXT)<br>
+
+<hr>
+
+## © 2025 Rivaldi Fadlan
+All rights reserved. Unauthorized use, copying, modification, or distribution without permission is strictly prohibited.
